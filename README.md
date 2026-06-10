@@ -3,36 +3,36 @@
 
 ## Project Overview
 
-An end-to-end business intelligence project analyzing the Olist Brazilian E-Commerce dataset.\
+An end-to-end business intelligence project analyzing the Olist Brazilian E-Commerce dataset.
 
-The objective was to understand revenue performance, customer behavior, product performance, and geographic sales trends using SQL and Power BI.\
+The objective was to understand revenue performance, customer behavior, product performance, and geographic sales trends using SQL and Power BI.
 
 ## Business Questions
 
-- How much revenue did the business generate?\
-- Which categories drive the most revenue?\
-- Which cities contribute the highest sales?\
-- Who are the highest-value customers?\
-- How strong is customer retention?\
+- How much revenue did the business generate?
+- Which categories drive the most revenue?
+- Which cities contribute the highest sales?
+- Who are the highest-value customers?
+- How strong is customer retention?
 
 ## Tools Used
-\
-- MySQL\
-- SQL\
-- Power BI\
-- DAX\
+
+- MySQL
+- SQL
+- Power BI
+- DAX
 
 ## Dataset
 
-Source:\
+Source:
 Olist Brazilian E-Commerce Dataset
 
 Contains:
 
-- Customers\
-- Orders\
-- Order Items\
-- Products\
+- Customers
+- Orders
+- Order Items
+- Products
 
 ## Data Model
 
@@ -43,27 +43,26 @@ orders
 order_items
 products
 
-## Key Metrics\
-\
-| Metric | Value |\
-|---|---:|\
-| Total Revenue | 13.59M |\
-| Total Orders | 99K |\
-| Total Customers | 96K |\
-| Average Order Value | 136.68 |\
-\
----\
-\
+## Key Metrics
+
+| Metric | Value |
+|---|---:|
+| Total Revenue | 13.59M |
+| Total Orders | 99K |
+| Total Customers | 96K |
+| Average Order Value | 136.68 |
+
+
 ## Dashboard Features
 
 The Power BI dashboard includes:
 
-- Revenue KPI tracking\
-- Monthly revenue trend\
-- Top product categories\
-- Top revenue cities\
-- Customer segmentation\
-- Repeat customer analysis\
+- Revenue KPI tracking
+- Monthly revenue trend
+- Top product categories
+- Top revenue cities
+- Customer segmentation
+- Repeat customer analysis
 
 ## Business Insights
 
@@ -75,24 +74,24 @@ Revenue showed strong growth from 2016 to 2018.
 ### Customer Behavior
 The analysis identified a major retention opportunity:
 
-- Most customers purchased only once\
-- Repeat purchases represent a smaller portion of customers\
+- Most customers purchased only once
+- Repeat purchases represent a smaller portion of customers
 
-This indicates potential opportunities for loyalty programs and retention strategies.\
+This indicates potential opportunities for loyalty programs and retention strategies.
 
 ### Product Analysis
 Top revenue categories:
-1. Beleza Sa\'fade\
-2. Relogios Presentes\
-3. Cama Mesa Banho\
+1. Beleza Sa'fade
+2. Relogios Presentes
+3. Cama Mesa Banho
 
 ### Geographic Analysis
 
-Highest revenue cities:\
-\
-1. Sao Paulo\
-2. Rio de Janeiro\
-3. Belo Horizonte\
+Highest revenue cities:
+
+1. Sao Paulo
+2. Rio de Janeiro
+3. Belo Horizonte
 
 ## Dashboard Preview
 \
